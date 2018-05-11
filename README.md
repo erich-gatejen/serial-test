@@ -1,0 +1,3 @@
+# serial-test
+
+This tool is for testing various serial hardware and drivers. It actually worked quite well and it carried me through a couple personal projects as well as seeing use on the job. This is software is public domain. There is both a DOS console and Microsoft Windows (not included here) implementation. Both use the same backend, but the console version is a little more reliable, since it worked much closer to the hardware
